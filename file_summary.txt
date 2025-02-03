@@ -1,0 +1,189 @@
+Summary Generated at: 2025-02-02 14:22:04
+========================================
+File Type      Count     Total Size (GB)
+========================================
+.zip           2122198   686.62 GB
+.docx          336664    95.46 GB
+.doc           74459     42.46 GB
+.csv           617928    19.90 GB
+.mp4           32        10.61 GB
+.pdf           27312     6.30 GB
+.pst           1         6.01 GB
+.xlsx          15749     5.32 GB
+.pptx          8282      4.37 GB
+.mpp           192       3.01 GB
+.jpg           2372      2.31 GB
+.htm           2043      1.31 GB
+.JPG           894       1.30 GB
+.wmv           9         0.92 GB
+.ppt           612       0.79 GB
+.ZIP           4609      0.77 GB
+.MOV           12        0.55 GB
+.xlsm          3055      0.52 GB
+.accdb         5         0.45 GB
+.DOCX          943       0.29 GB
+.txt           4640      0.14 GB
+.checkout      2004      0.14 GB
+.jpeg          97        0.13 GB
+.mdb           5         0.13 GB
+.DOC           625       0.11 GB
+.xls           935       0.11 GB
+.png           2999      0.10 GB
+.PDF           1547      0.10 GB
+.flv           2         0.10 GB
+.docm          138       0.10 GB
+.swf           194       0.09 GB
+.rtf           851       0.08 GB
+.flb           3         0.07 GB
+.rar           141       0.03 GB
+.psd           4         0.03 GB
+.wav           2         0.03 GB
+.yaml          1603      0.03 GB
+.jar           2         0.03 GB
+.MP4           1         0.03 GB
+.js            255       0.02 GB
+.pps           35        0.02 GB
+[No Extension] 105       0.02 GB
+.tif           3         0.02 GB
+.c             748       0.02 GB
+.XLSX          33        0.01 GB
+.PNG           18        0.01 GB
+.avi           1         0.01 GB
+.tmp           103       0.01 GB
+.ai            9         0.01 GB
+.msg           44        0.01 GB
+.ps            2         0.01 GB
+.xml           253       0.01 GB
+.jfif          2         0.01 GB
+.dot           325       0.01 GB
+.exe           7         0.01 GB
+.r02           1         0.01 GB
+.r05           1         0.01 GB
+.r00           1         0.01 GB
+.r03           1         0.01 GB
+.r04           1         0.01 GB
+.r01           1         0.01 GB
+.r06           1         0.01 GB
+.PPTX          35        0.00 GB
+.HEIC          2         0.00 GB
+.eps           3         0.00 GB
+.r07           1         0.00 GB
+.html          242       0.00 GB
+.AVI           2         0.00 GB
+.331_CR4458(Rel-18)_R2-231xxxx- Introduction of further NR mobility enhancements_v26_Working on final version, no more commentsdocx1         0.00 GB
+.331 Running CR  (Ericsson)1         0.00 GB
+.Checkout      20        0.00 GB
+.dotm          26        0.00 GB
+.css           54        0.00 GB
+.7z            41        0.00 GB
+.ppsx          1         0.00 GB
+.h             75        0.00 GB
+.Zip           17        0.00 GB
+.RTF           11        0.00 GB
+.mkv           1         0.00 GB
+.gif           43        0.00 GB
+.wbk           4         0.00 GB
+.pspimage      1         0.00 GB
+.svg           123       0.00 GB
+.LOG           257       0.00 GB
+.C             19        0.00 GB
+.CHECKOUT      13        0.00 GB
+.heic          1         0.00 GB
+.dotx          1         0.00 GB
+.key           1         0.00 GB
+.UPLOADING     1         0.00 GB
+.DOCM          1         0.00 GB
+.téléchargement19        0.00 GB
+.MAR           2         0.00 GB
+.OLD           1         0.00 GB
+.odt           21        0.00 GB
+.emf           3         0.00 GB
+.vsdx          5         0.00 GB
+.checkoout     1         0.00 GB
+.GIF           4         0.00 GB
+.asn           1         0.00 GB
+.vsd           7         0.00 GB
+.yml           9         0.00 GB
+.token         1         0.00 GB
+.PPT           3         0.00 GB
+.xsd           21        0.00 GB
+.mp3           16        0.00 GB
+.log           30        0.00 GB
+.zipx          2         0.00 GB
+.bmp           1         0.00 GB
+.py            15        0.00 GB
+.rft           2         0.00 GB
+.ics           15        0.00 GB
+.ogg           16        0.00 GB
+.R1-v014-vivo-IDCC-checkout1         0.00 GB
+.vcproj        7         0.00 GB
+.mht           2         0.00 GB
+.048 Test Meeting3         0.00 GB
+.docx_eab      1         0.00 GB
+.xpi           2         0.00 GB
+.sav           2         0.00 GB
+.048           2         0.00 GB
+.part          2         0.00 GB
+.mim           1         0.00 GB
+.pdF           1         0.00 GB
+.H             14        0.00 GB
+.zip ダウンロードが成功しました1         0.00 GB
+.java          4         0.00 GB
+.INP           1         0.00 GB
+.OUT           1         0.00 GB
+.db            5         0.00 GB
+.173) - Rev 1  1         0.00 GB
+.mpbak         1         0.00 GB
+.sav2          1         0.00 GB
+.TMP           11        0.00 GB
+.lnk           14        0.00 GB
+.THM           2         0.00 GB
+.rdf           1         0.00 GB
+.md            1         0.00 GB
+.thmx          2         0.00 GB
+.signalling    2         0.00 GB
+.sln           2         0.00 GB
+.ini           2         0.00 GB
+.DEC           1         0.00 GB
+.sst           1         0.00 GB
+.COD           1         0.00 GB
+.MAK           1         0.00 GB
+.aspx          1         0.00 GB
+.cdp           3         0.00 GB
+.lftp-pget-status11        0.00 GB
+.rme           1         0.00 GB
+.scr           1         0.00 GB
+.bat           4         0.00 GB
+.url           8         0.00 GB
+.VAX           1         0.00 GB
+.TXT           3         0.00 GB
+.drm           1         0.00 GB
+.txt_v2        1         0.00 GB
+.RSP           1         0.00 GB
+.DS_Store      1         0.00 GB
+.cdpresource   2         0.00 GB
+.node          1         0.00 GB
+.dat           2         0.00 GB
+.2 NR Redcap   1         0.00 GB
+.2 RAN4 conclusion1         0.00 GB
+._refer_to_3GU!1         0.00 GB
+.chechout      1         0.00 GB
+.text          1         0.00 GB
+.2_v077_Moderator_Nokia_checkout1         0.00 GB
+.txt 012 is already uploaded1         0.00 GB
+.1-v005-Panasonic-LG checkout1         0.00 GB
+.1-v004-Google-Panasonic checkout1         0.00 GB
+.chcekout      1         0.00 GB
+.chekout       4         0.00 GB
+. checkout     1         0.00 GB
+.2             1         0.00 GB
+.check_out     1         0.00 GB
+.3 Enhanced sidelink operation on FR2 licensed spectrum_v210_CEWiT_DCM_checkout1         0.00 GB
+.checkuot      1         0.00 GB
+.1_v024_CLOSED 1         0.00 GB
+.2 - V014_Ericsson_HW_checkout1         0.00 GB
+.LOCKED        1         0.00 GB
+.cancelled     1         0.00 GB
+.1-Evaluation  1         0.00 GB
+========================================
+Total Size: 891.11 GB
