@@ -187,3 +187,18 @@ File Type      Count     Total Size (GB)
 .1-Evaluation  1         0.00 GB
 ========================================
 Total Size: 891.11 GB
+Summary Generated at: 2025-02-08 19:25:14
+File Summary for Directory: .
+========================================
+File Type      Count     Total Size (GB)
+========================================
+.sample        12        0.00 GB
+[No Extension] 24        0.00 GB
+.txt           1         0.00 GB
+.sh            2         0.00 GB
+.py            1         0.00 GB
+.md            1         0.00 GB
+.idx           1         0.00 GB
+.pack          1         0.00 GB
+========================================
+Total Size: 0.00 GB

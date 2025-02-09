@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define allowed extensions (case insensitive)
-KEEP_EXTENSIONS=("pdf" "zip" "docx" "ppt" "xlsx" "doc" "pptx")
+KEEP_EXTENSIONS=("pdf" "zip" "docx" "ppt" "xlsx" "doc" "pptx" "rtf")
 
 # Ask the user for the folder to scan
 echo "Please enter the path to the folder you want to clean up:"
