@@ -27,24 +27,5 @@ This script cleans up a directory by deleting files that do not match a predefin
 - Deletes files that do not match the allowed extensions.
 - Supports parallel execution for speed.
 
-### 3. `file_summary.py`
-A Python script that generates a summary of files in a given directory, categorizing them by extension and calculating their total size.
-
-#### Usage:
-```bash
-python3 file_summary.py [directory]
-```
-- If no directory is provided, it scans the current directory.
-- Outputs the summary to `file_summary.txt`, displaying file count and total size in GB.
-
-## Requirements
-- **Python 3** for `file_summary.py`
-- **Bash shell** for executing `.sh` scripts
-- **lftp** (for `download.sh`)
-- **GNU Parallel** (for `clean_files.sh`)
-
-## Notes
-- Ensure you have the necessary permissions to execute the scripts.
-- Modify the `KEEP_EXTENSIONS` array in `clean_files.sh` if additional file types need to be preserved.
 
 

@@ -26,4 +26,4 @@ lftp -c "set net:timeout 10; \
         set xfer:use-temp-file yes; \
         set cmd:trace 1; \
         open $FTP_SERVER; \
-        mirror -c --use-pget-n=80 -P 120 $REMOTE_DIR $LOCAL_DIR" | tee -a "$LOG_FILE"
+        mirror -c --use-pget-n=80 -P 120 --verbose --only-newer $REMOTE_DIR $LOCAL_DIR" | tee -a "$LOG_FILE"
